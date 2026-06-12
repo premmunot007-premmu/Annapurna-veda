@@ -1,0 +1,20 @@
+/* Import a serif font from Google Fonts to match the style in the image */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&display=swap');
+
+/* We create a custom utility class that Tailwind can use.
+  This applies the imported font family.
+*/
+.font-annapurna {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+/*
+  The social media icons in your image are black. 
+  By default, the SVGs inherit the parent's text color (white).
+  This CSS rule targets them specifically to make them black, matching your design.
+*/
+.bg-\[\#586b44\] svg {
+  stroke: black;
+}

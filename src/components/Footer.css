@@ -1,0 +1,16 @@
+/* Import a serif font that closely matches the image, like Cormorant Garamond */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&display=swap');
+
+/* Apply the custom font to the .font-annapurna class.
+  Tailwind will recognize this class, and you can use it in your JSX.
+*/
+.font-annapurna {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* By default, the SVG icons will inherit the `text-white` color from the parent.
+  No specific color adjustment is needed here unless you want them to be a different color.
+  The `align-middle` class added directly to the SVGs in JSX handles vertical alignment.
+*/

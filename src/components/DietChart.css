@@ -1,0 +1,16 @@
+/*
+  This file is for custom CSS for the DietChart component.
+  The styling for this component is almost entirely handled by Tailwind CSS utility classes in the DietChart.jsx file.
+  
+  You can add custom styles here if you have complex requirements
+  not easily achievable with Tailwind, such as custom keyframe animations.
+*/
+
+/* Example: To use a specific font like 'Inter' from Google Fonts, you would add this: */
+/*
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+*/
