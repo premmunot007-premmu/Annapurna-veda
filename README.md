@@ -1,16 +1,43 @@
-# React + Vite
+# 🌿 AnnapurnaVeda
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### AI-Powered Ayurveda Nutrition & Wellness Platform
 
-Currently, there are two official plugins are available:
+**AnnapurnaVeda** combines **Ayurvedic wisdom with modern technology** to provide personalized nutrition, food compatibility checks, wellness guidance, and access to Ayurvedic healthcare.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** https://annapurna-veda-v1.vercel.app
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🥗 **Personalized Diet Plans** based on Prakriti & Dosha
+* 🍛 **Ayurvedic Recipe Generator**
+* 🔄 **Food Compatibility Checker** for Viruddha Aahara
+* 👨‍⚕️ **Doctor & Clinic Discovery**
+* 📅 **Appointment Support**
+* 🧘 **Dosha & Rasa Exploration**
+* 📋 **Daily Wellness Tasks**
+* 🏛️ **AYUSH Complaint Support**
 
-## Expanding the ESLint configuration
+## 🎯 Vision
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To make **Ayurvedic nutrition simple, personalized, and accessible** through technology.
+
+> **Ancient Wisdom × Modern Technology = Personalized Wellness**
+
+## 🚀 Future Scope
+
+* AI Ayurveda Assistant
+* Mobile App / PWA
+* Advanced Health Analytics
+* Doctor & Hospital Integration
+* Multi-language Support
+* Wearable Health Integration
+
+## ⚠️ Disclaimer
+
+AnnapurnaVeda is intended for **educational and wellness purposes** and does not replace professional medical advice.
+
+---
+
+### 🌐 Live Project
+
+**[Visit AnnapurnaVeda](https://annapurna-veda-v1.vercel.app)**
